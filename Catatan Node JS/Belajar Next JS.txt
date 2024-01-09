@@ -1,0 +1,31 @@
+npx blablabla
+name project
+typescript Yes
+ESLint Yes
+Tailwind Yes
+src No
+AppRouter Yes
+import alias No
+npm run dev
+instal diproject:
+- typescript and javascript 	
+- node js module intelisense
+- react es7
+**
+command : rafce -> untuk generate default code
+Link : untuk optimasi page
+--
+CSS
+--
+'use client' -> client component / komponen klien
+onclick dan alert = browser API / Client Side
+--
+fetching data from jsonplaceholder
+caching -> untuk request terus menerus sesuai reload user (mode production)
+ -> caching : ada cache dan ada next
+static rendering
+dynamic rendering
+--
+npm run dev : mode development
+npm run build : mode production
+nmp start : untuk mengaktifkan yang sudah di build pada mode production
